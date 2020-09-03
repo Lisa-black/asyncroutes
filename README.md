@@ -6,7 +6,7 @@
 
 ## 使用
 
-[详细教程](./detail.md)
+detail.md
 
 ### 开发
 
